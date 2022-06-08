@@ -1,5 +1,5 @@
 # Digital Clock
-<li> A simple Project written in HTML, CSS and JavaScript.
+<li> A Digital Clock Project written in HTML, CSS and JavaScript.
 <li> This Project uses different concepts of HTML, CSS and JavaScript.
 <li> This Project also uses some DOM concepts and Date Time Concept to Show Time.
 <li> Background Color is changed after every minute using DOM.
